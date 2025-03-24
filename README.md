@@ -1,3 +1,20 @@
+# REAL-TIME CHAT APPLICATION
+
+*COMPANY*: CODTECH IT SOLUTIONS 
+
+*NAME*: ANAMIKA 
+
+*INTERN ID*: CT08UOE 
+
+*DOMAIN*: FRONT END DEVELOPMENT 
+
+*DURATION*: 4 WEEKS 
+
+*MENTOR*: NEELA SANTOSH KUMAR
+
+A real-time chat application is a web or mobile-based platform that enables users to send and receive messages instantly. These applications use WebSockets or other real-time communication technologies to facilitate seamless conversations without the need for constant page refreshes.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
